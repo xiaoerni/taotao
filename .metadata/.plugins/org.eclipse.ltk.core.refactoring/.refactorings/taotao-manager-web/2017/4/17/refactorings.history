@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.taotao.utils&apos; to &apos;taotao-manager-service/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-web&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-manager-service/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;taotao-manager-web/src/main/java/com.taotao.utils&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=taotao-manager-service/src\/main\/java" element1="/src\/main\/java&lt;com.taotao.utils" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1493126792971" version="1.0"/>
+</session>
