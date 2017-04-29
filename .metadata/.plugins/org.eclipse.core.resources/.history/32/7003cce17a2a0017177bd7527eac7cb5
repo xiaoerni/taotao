@@ -1,0 +1,35 @@
+package com.taotao.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.github.pagehelper.PageHelper;
+import com.sun.tools.javac.util.List;
+import com.taotao.common.pojo.EasyUIDataGridResult;
+import com.taotao.mapper.TbItemParamItemMapper;
+import com.taotao.pojo.TbItemParamItem;
+import com.taotao.service.ItemParamItemService;
+
+/**
+ * 查询商品参数的serviceimpl
+ * @author wrx
+ *
+ */
+@Service
+public class ItemParamItemServiceImpl implements ItemParamItemService {
+
+	@Autowired
+	private TbItemParamItemMapper itemParamItemMapper;
+	
+	@Override
+	public EasyUIDataGridResult getItemParamItemList(int page, int rows) {
+
+		//分页处理
+		PageHelper.startPage(page, rows);
+		//执行查询
+		TbItemParamItem itemParamItem = new TbItemParamItem();
+		List<TbItemParamItem> list = 
+		return null;
+	}
+
+}
