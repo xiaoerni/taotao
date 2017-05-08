@@ -3,5 +3,7 @@
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{PictureService.java[PictureService" modifiers="513" timestamp="1493166247901"/>
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamItemService.java[ItemParamItemService" modifiers="513" timestamp="1493208555224"/>
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1492500942023"/>
-<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamService.java[ItemParamService" modifiers="513" timestamp="1493342944404"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamService.java[ItemParamService" modifiers="513" timestamp="1493348245437"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1493519713526"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentCatgoryService.java[ContentCatgoryService" modifiers="513" timestamp="1493690252775"/>
 </typeInfoHistroy>

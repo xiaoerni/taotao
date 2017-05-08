@@ -2,10 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.taotao"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="taotao-portal"/>
+			<item value="taotao-parent"/>
+			<item value="taotao-rest"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

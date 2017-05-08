@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="180" key=".columnWidth0"/>
+	<item value="100" key=".columnWidth1"/>
+	<item value="1" key=".sortColumn"/>
 </section>

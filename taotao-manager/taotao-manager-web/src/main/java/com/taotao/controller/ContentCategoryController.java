@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -45,9 +46,9 @@ public class ContentCategoryController {
 		return  result;
 	}
 	
-	@RequestMapping("/delete/{id}")
+	@RequestMapping("/delete")
 	@ResponseBody
-	public TaotaoResult deleteCatgory(@RequestParam Long id){
+	public TaotaoResult deleteCatgory( Long id,Long parentId){
 		TaotaoResult result = contentCatgoryService.deleteCatgory(id);
 		return result;
 	}
