@@ -6,4 +6,8 @@
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamService.java[ItemParamService" modifiers="513" timestamp="1493348245437"/>
 <typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1493519713526"/>
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentCatgoryService.java[ContentCatgoryService" modifiers="513" timestamp="1493690252775"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentService.java[ContentService" modifiers="513" timestamp="1494061277424"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ContentService.java[ContentService" modifiers="513" timestamp="1494123610908"/>
+<typeInfo handle="=taotao-portal/src\/main\/java&lt;com.taotao.portal.service{ContentService.java[ContentService" modifiers="513" timestamp="1494126636346"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.component{JedisClient.java[JedisClient" modifiers="513" timestamp="1494409365107"/>
 </typeInfoHistroy>
