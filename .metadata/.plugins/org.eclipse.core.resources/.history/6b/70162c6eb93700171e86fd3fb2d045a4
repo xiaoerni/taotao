@@ -1,0 +1,23 @@
+package com.taotao.search.dao.impl;
+
+import org.apache.solr.client.solrj.SolrQuery;
+import org.springframework.stereotype.Repository;
+
+import com.taotao.search.dao.SearchDao;
+import com.taotao.search.pojo.SearchResult;
+
+/**
+ * solr查询dao
+ * @author wrx
+ *
+ */
+@Repository
+public class SearchDaoImpl implements SearchDao {
+
+	@Override
+	public SearchResult search(SolrQuery quert) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
