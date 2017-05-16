@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>${title}</title>
+</head>
+<body>
+	<label>id:</label>${student.id}<br>
+	<label>name:</label>${student.name}<br>
+	<label>address:</label>${student.address}<br>
+	studentlist:
+	<table border="1">
+	<#list student as s>
+		<tr>
+			<td>${s.id}</td>
+			<td>${s.name}</td>
+			<td>${s.address}</td>
+		</tr>
+	</#list>
+	</table>
+</body>
+</html>

@@ -7,7 +7,11 @@
 <typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1493519713526"/>
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentCatgoryService.java[ContentCatgoryService" modifiers="513" timestamp="1493690252775"/>
 <typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentService.java[ContentService" modifiers="513" timestamp="1494061277424"/>
-<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ContentService.java[ContentService" modifiers="513" timestamp="1494123610908"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ContentService.java[ContentService" modifiers="513" timestamp="1494559797797"/>
 <typeInfo handle="=taotao-portal/src\/main\/java&lt;com.taotao.portal.service{ContentService.java[ContentService" modifiers="513" timestamp="1494126636346"/>
-<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.component{JedisClient.java[JedisClient" modifiers="513" timestamp="1494409365107"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.component{JedisClient.java[JedisClient" modifiers="513" timestamp="1494559641493"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ItemService.java[ItemService" modifiers="513" timestamp="1494818618880"/>
+<typeInfo handle="=taotao-portal/D:\/JDK1.7\/lib\/rt.jar&lt;java.awt(ItemSelectable.class[ItemSelectable" modifiers="1537" timestamp="1486863964298"/>
+<typeInfo handle="=taotao-portal/src\/main\/java&lt;com.taotao.portal.service{ItemService.java[ItemService" modifiers="513" timestamp="1494838648602"/>
+<typeInfo handle="=taotao-manager-pojo/src\/main\/java&lt;com.taotao.pojo{TbItem.java[TbItem" modifiers="1" timestamp="1492430633463"/>
 </typeInfoHistroy>

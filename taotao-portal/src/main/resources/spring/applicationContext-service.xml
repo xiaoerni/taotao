@@ -14,5 +14,10 @@
 	<!-- 加载配置文件 -->
 	<context:property-placeholder location="classpath:properties/*.properties" />
 	
+	<bean id="freemarkerConfig"
+		class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+		<property name="templateLoaderPath" value="/WEB-INF/ftl/" />
+		<property name="defaultEncoding" value="UTF-8" />
+	</bean>
 	
 </beans>

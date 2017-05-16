@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>${title}</title>
+</head>
+<body>
+	<label>number:</label>${student.id}<br>
+	<label>name:</label>${student.name}<br>
+	<label>address:</label>${student.address}<br>
+</body>
+</html>
