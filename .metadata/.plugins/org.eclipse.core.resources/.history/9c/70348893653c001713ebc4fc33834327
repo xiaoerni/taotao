@@ -1,0 +1,14 @@
+package com.taotao.portal.pojo;
+/**
+ * 购物车商品的pojo
+ * @author wrx
+ *
+ */
+public class CartItem {
+
+	private String id;
+	private String title;
+	private Long price;
+	private Integer num;
+	private String image;
+}
