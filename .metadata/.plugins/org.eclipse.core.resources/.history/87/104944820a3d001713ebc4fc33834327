@@ -1,0 +1,5 @@
+package om.taotao.order.pojo;
+
+public class OrderInfo {
+
+}
