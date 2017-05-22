@@ -19,10 +19,11 @@
 		<property name="prefix" value="/WEB-INF/jsp/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
-	<!-- <mvc:interceptors>
+	<mvc:interceptors>
 		<mvc:interceptor>
-			<mvc:mapping path="/item/**"/>
+			<mvc:mapping path="/order/**"/>
+			<!-- <mvc:mapping path="/item/**"/> -->
 			<bean class="com.taotao.portal.LoginInterceptor"/>
 		</mvc:interceptor>
-	</mvc:interceptors> -->
+	</mvc:interceptors>
 </beans>        
